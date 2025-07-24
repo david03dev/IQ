@@ -1,3 +1,4 @@
 1. Find the nearest prime number from given number using python?
 2. Given array is [9,2,5,8,6,4,7,3]. Sort the items from index 2 to 5 ?
 3. Find a subsets of given list [5,6,2,8]
+4. Find the concurrence of given string?
